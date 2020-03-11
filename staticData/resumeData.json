@@ -1,22 +1,20 @@
 {
     "baseInfo" : {
-        "title": "小沈的个人介绍"
+        "title": "坐等开学团队介绍"
     },
     "home": {
         "photo": "images/header.jpeg",
         "quote": "生活是一种绵延不绝的渴望，渴望不断上升，变得更伟大而高贵。.....",
         "desList": [
-            "我叫小小沈",
-            "一名前端研发工程师",
-            "shenxf1986@qq.com"
+            "我们是坐等开学团队"
         ]
     },
     "info": {
         "infoList": [
-            {"key": "年龄", "value": "33岁"},
+            {"key": "年龄", "value": "20岁"},
             {"key": "学历", "value": "本科"},
-            {"key": "坐标", "value": "上海"},
-            {"key": "状态", "value": "在职"}
+            {"key": "坐标", "value": "武汉"},
+            {"key": "状态", "value": "在读"}
         ],
         "infoDes": [
             "三年互联网经验,两年半全职前端开发经验",
